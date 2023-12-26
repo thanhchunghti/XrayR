@@ -16,7 +16,7 @@ XrayR已于7.28回归
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/longyi8/XrayR/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/thanhchunghti/XrayR/main/install.sh)
 ```
 # Docker 安装
 
